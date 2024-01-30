@@ -76,8 +76,8 @@ ${data.tests}
 
 ## Questions
 If you have any questions, feel free to reach out to me:
-- GitHub: [${data.github}](https://github.com/${data.github})
 - Email: ${data.email}
+- GitHub: [${data.github}](https://github.com/${data.github})
 `;
 }
 
