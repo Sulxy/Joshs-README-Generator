@@ -27,7 +27,7 @@ For more information about the license, click [here]().
 Please see the [Github Documents](https://docs.github.com/en/get-started/exploring-projects-on-github/contributing-to-a-project) regarding this topic. 
 
 ## Tests
-Clone the repo, and run the "node index.js" command, as outlined in the Use section.
+Test has not been included -- we have not covered that in class yet.
 
 ## Questions
 If you have any questions, feel free to reach out to me:
