@@ -17,7 +17,7 @@ Clone this repository like you would any other, and install the dependencies out
 ## Usage
 Once you have the repository cloned: Open your command line, navigate to the correct folder, and type "node index.js". When this command is run, it will start to prompt you with all the questions in the array. Answer them as you like, and the application will generate a new README.md file for you to use for your own project(s).
 
-https://www.youtube.com/watch?v=IWvjTyehvxo
+[Demonstration Video Here](https://www.youtube.com/watch?v=IWvjTyehvxo)
 
 ## License
 
