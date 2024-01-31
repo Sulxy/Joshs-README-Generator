@@ -2,6 +2,7 @@
 
 ## Description
 This is a CLI application that prompts the user with questions, in order to build them a professional lookingREADME file that can be copied for use in the users other applications. 
+![image](https://github.com/Sulxy/Joshs-README-Generator/assets/149080702/413f3a1d-0101-4781-b14e-b95e3850af38)
 
 ## Table of Contents
 - [Installation](#installation)
@@ -20,7 +21,7 @@ Once you have the repository cloned: Open your command line, navigate to the cor
 [Demonstration Video Here](https://www.youtube.com/watch?v=IWvjTyehvxo)
 
 ## License
-
+No License Used. 
 For more information about the license, click [here]().
 
 ## Contributing
