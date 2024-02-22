@@ -34,3 +34,7 @@ Test has not been included -- we have not covered that in class yet.
 If you have any questions, feel free to reach out to me:
 - Email: Joshuahale829@gmail.com
 - GitHub: [Sulxy](https://github.com/Sulxy)
+
+## Sources
+I spoke with Rudie from AskBCS to help me with an AggregateError issue I was having. They really helped set me straight on that issue! 
+ThomasCalle's youtube channel, and Angela and Gabe from class, whom helped me with some other issues with my code, but authored no code. 
